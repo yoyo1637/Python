@@ -28,8 +28,8 @@ Le script serveur s'execute comme ceci:
 ```
 
 ### e ) Téléchargement du script
-Lien du script client : [client.py]()
-Lien du script serveur : [serveur.py]()
+* Lien du script client : [client.py]()
+* Lien du script serveur : [serveur.py]()
 
 ### f ) Téléchargement de l'interface web
 Une interface web permet de lancer des sauvgardes et des restaurations de données ou de base.
